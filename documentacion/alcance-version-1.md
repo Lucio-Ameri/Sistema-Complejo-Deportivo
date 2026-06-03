@@ -236,7 +236,6 @@ Actividades iniciales:
 - Cumpleaños deportivo para varones.
 - Cumpleaños deportivo mixto.
 - Salón infantil.
-- Confitería / cafetería.
 - Evento particular.
 
 Cada actividad deberá registrar:
@@ -653,7 +652,6 @@ Tipos de reserva iniciales:
 
 - Alquiler fútbol 5.
 - Educación física escolar.
-- Cumpleaños deportivo.
 
 Estados posibles:
 
