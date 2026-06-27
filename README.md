@@ -249,9 +249,9 @@ facturación electrónica, integración con AFIP/bancos, pagos online, notificac
 - **✅ Día 2 — Repasar los 13 flujos.** Poder explicar en voz alta cómo se mueve cada peso que entra al complejo.
 - **✅ Día 3 — Validar reglas críticas.** Releer `RN-GEN`, `RN-PAG`, `RN-CAJ`, `RN-ANU`. Anotar dudas.
 - **✅ Día 4 — Crear `documentacion/pantallas.md`**. Listar las pantallas y qué hace cada una.
-- **Día 5 — Instalar y verificar entorno:** JDK, Maven, MySQL, IDE, Git, Postman. Probar `java -version`, `mvn -version`, `git --version`.
-- **Día 6 — Crear estructura de carpetas** (`backend/`, `frontend/`, `documentacion/`, `base-datos/`) e iniciar Git con primer commit.
-- **Día 7 — Repaso de la semana.**
+- **✅ Día 5 — Instalar y verificar entorno:** JDK, Maven, MySQL, IDE, Git, Postman. Probar `java -version`, `mvn -version`, `git --version`.
+- **✅ Día 6 — Crear estructura de carpetas** (`backend/`, `frontend/`, `documentacion/`, `base-de-datos/`) e iniciar Git con primer commit.
+- **✅ Día 7 — Repaso de la semana.**
 
 > **Terminado cuando:** existe `pantallas.md`, el entorno responde y el repositorio está iniciado.
 > `git commit -m "Análisis completo y entorno preparado"`
